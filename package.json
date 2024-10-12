@@ -1,0 +1,20 @@
+{
+  "name": "namastey-react",
+  "version": "1.0.0",
+  "description": "This is Hello React by Ajantika",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iajantika/hello-react.git"
+  },
+  "keywords": [],
+  "author": "Ajantika",
+  "license": "ISC",
+  "homepage": "https://github.com/iajantika/hello-react#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
